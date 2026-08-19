@@ -1,6 +1,6 @@
 # DevOps APSIT
 
-A single repository for DevOps experiments.
+A single repository for DevOps automation experiments.
 
 ## Experiments
 
