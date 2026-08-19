@@ -11,3 +11,7 @@ A single repository for DevOps experiments.
 - Experiment 07 - Kubernetes
 - Experiment 08 - CI/CD
 - Experiment 09 - Terraform
+
+## Git Workflow
+
+This project uses Git branches, commits, merges, and GitHub for version control.
