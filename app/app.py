@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    return "Hello from DevOps APSIT!"
+    return "Hello from DevOps APSIT - Docker v2!"
 
 
 if __name__ == "__main__":
