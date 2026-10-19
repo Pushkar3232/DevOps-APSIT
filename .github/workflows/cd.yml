@@ -21,7 +21,7 @@ jobs:
         run: pip install -r app/requirements.txt
 
       - name: Run tests
-        run: pytest -q
+        run: pytest tests -q
 
   docker:
     needs: build-test
